@@ -1,0 +1,4 @@
+#Sun Jun 30 15:37:56 CDT 2019
+base.0=/Users/aaronnoyes/Library/CloudStorage/iCloud Drive/Documents/dev/android/roll-for-initiative---14/AgilePlanner/app/build/intermediates/transforms/dexMerger/debug/7
+path.0=classes.dex
+renamed.0=classes.dex

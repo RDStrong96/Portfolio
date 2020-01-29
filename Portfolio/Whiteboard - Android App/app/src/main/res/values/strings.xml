@@ -1,8 +1,0 @@
-<resources>
-    <string name="app_name">Whiteboards</string>
-    <string name="title_activity_project_adder">ProjectAdder</string>
-    <string name="bg_texture_name">Background Texture</string>
-
-    <!-- TODO: Remove or change this placeholder text -->
-    <string name="hello_blank_fragment">Hello blank fragment</string>
-</resources>

@@ -1,0 +1,226 @@
+-- Merging decision tree log ---
+manifest
+ADDED from /Users/aaronnoyes/Library/CloudStorage/iCloud Drive/Documents/dev/android/roll-for-initiative---14/AgilePlanner/app/src/main/AndroidManifest.xml:2:1-33:12
+INJECTED from /Users/aaronnoyes/Library/CloudStorage/iCloud Drive/Documents/dev/android/roll-for-initiative---14/AgilePlanner/app/src/main/AndroidManifest.xml:2:1-33:12
+INJECTED from /Users/aaronnoyes/Library/CloudStorage/iCloud Drive/Documents/dev/android/roll-for-initiative---14/AgilePlanner/app/src/main/AndroidManifest.xml:2:1-33:12
+INJECTED from /Users/aaronnoyes/Library/CloudStorage/iCloud Drive/Documents/dev/android/roll-for-initiative---14/AgilePlanner/app/src/main/AndroidManifest.xml:2:1-33:12
+MERGED from [com.google.android.material:material:1.0.0] /Users/aaronnoyes/.gradle/caches/transforms-2/files-2.1/6ddd00caabac1baf0e06788a77375078/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.appcompat:appcompat:1.0.0] /Users/aaronnoyes/.gradle/caches/transforms-2/files-2.1/c7c629b32fd2152712b1ae95eb33c7c5/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.constraintlayout:constraintlayout:1.1.3] /Users/aaronnoyes/.gradle/caches/transforms-2/files-2.1/0033ad47f67b6262b5a6e33239b022e7/AndroidManifest.xml:2:1-11:12
+MERGED from [androidx.recyclerview:recyclerview:1.0.0] /Users/aaronnoyes/.gradle/caches/transforms-2/files-2.1/96d9ac4ab472c7b8df6d32f378341786/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.room:room-runtime:2.1.0] /Users/aaronnoyes/.gradle/caches/transforms-2/files-2.1/0ec015514e90e9e4347281cdaf3363f2/AndroidManifest.xml:17:1-30:12
+MERGED from [androidx.lifecycle:lifecycle-extensions:2.0.0] /Users/aaronnoyes/.gradle/caches/transforms-2/files-2.1/299be5937a790e0f2195f539ccc59286/AndroidManifest.xml:17:1-25:12
+MERGED from [androidx.fragment:fragment:1.0.0] /Users/aaronnoyes/.gradle/caches/transforms-2/files-2.1/77dab1d480e0ee317e077fd0616c2597/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.vectordrawable:vectordrawable-animated:1.0.0] /Users/aaronnoyes/.gradle/caches/transforms-2/files-2.1/deeeaf896dc6ef94ff8cf0f9494331f4/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.legacy:legacy-support-core-ui:1.0.0] /Users/aaronnoyes/.gradle/caches/transforms-2/files-2.1/fcec4e36c5e75eaca4528a5fae793881/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.legacy:legacy-support-core-utils:1.0.0] /Users/aaronnoyes/.gradle/caches/transforms-2/files-2.1/6c8d1cfb5c25180aa2e538c8fb120a23/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.vectordrawable:vectordrawable:1.0.0] /Users/aaronnoyes/.gradle/caches/transforms-2/files-2.1/337a90b6c1096749a038e44770921987/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.transition:transition:1.0.0] /Users/aaronnoyes/.gradle/caches/transforms-2/files-2.1/8bb2eb81247cc084fed5315d725e76d2/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.loader:loader:1.0.0] /Users/aaronnoyes/.gradle/caches/transforms-2/files-2.1/8c7385a91d357248be3167b6ac3ab6c4/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.viewpager:viewpager:1.0.0] /Users/aaronnoyes/.gradle/caches/transforms-2/files-2.1/7e25f5cad47f1035752233fdec4dde91/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.coordinatorlayout:coordinatorlayout:1.0.0] /Users/aaronnoyes/.gradle/caches/transforms-2/files-2.1/5c5790e00299005dbf5e730058635bb6/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.drawerlayout:drawerlayout:1.0.0] /Users/aaronnoyes/.gradle/caches/transforms-2/files-2.1/9074057e6dd7719068d5a0facd6edbde/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.slidingpanelayout:slidingpanelayout:1.0.0] /Users/aaronnoyes/.gradle/caches/transforms-2/files-2.1/778c6c407ea5d4fa5f265439c7d1e5f0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.customview:customview:1.0.0] /Users/aaronnoyes/.gradle/caches/transforms-2/files-2.1/a2069248d466501aa40af86eb7504779/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.swiperefreshlayout:swiperefreshlayout:1.0.0] /Users/aaronnoyes/.gradle/caches/transforms-2/files-2.1/20fd492211968cfd90ec43992f59eef8/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.asynclayoutinflater:asynclayoutinflater:1.0.0] /Users/aaronnoyes/.gradle/caches/transforms-2/files-2.1/e900d7502c96e18c788ad1e8a57ad704/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.core:core:1.0.0] /Users/aaronnoyes/.gradle/caches/transforms-2/files-2.1/499d97de342fe08c3a53aca210ef0285/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.0.0] /Users/aaronnoyes/.gradle/caches/transforms-2/files-2.1/38e6a640b941f0eb4e86509358b50a10/AndroidManifest.xml:17:1-25:12
+MERGED from [androidx.cursoradapter:cursoradapter:1.0.0] /Users/aaronnoyes/.gradle/caches/transforms-2/files-2.1/75e0dafab5509687608a2fa949ff7817/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.cardview:cardview:1.0.0] /Users/aaronnoyes/.gradle/caches/transforms-2/files-2.1/1f7589759a2e6e6886bc00e0a302e821/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.sqlite:sqlite-framework:2.0.1] /Users/aaronnoyes/.gradle/caches/transforms-2/files-2.1/0403cf4c107197bd7b3653ec9133dbca/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.sqlite:sqlite:2.0.1] /Users/aaronnoyes/.gradle/caches/transforms-2/files-2.1/6f580002f130bef66490f88e7bf8daa4/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.lifecycle:lifecycle-livedata:2.0.0] /Users/aaronnoyes/.gradle/caches/transforms-2/files-2.1/67bd956e99157671ccdbcdb4e179e936/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.lifecycle:lifecycle-livedata-core:2.0.0] /Users/aaronnoyes/.gradle/caches/transforms-2/files-2.1/5ad3267117dd4803ca3958ead3dc62a4/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.arch.core:core-runtime:2.0.1] /Users/aaronnoyes/.gradle/caches/transforms-2/files-2.1/3908d762a89f628d66948ecc754f7723/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.lifecycle:lifecycle-process:2.0.0] /Users/aaronnoyes/.gradle/caches/transforms-2/files-2.1/07b3f69ec32a8c09172891650e743b35/AndroidManifest.xml:17:1-30:12
+MERGED from [androidx.lifecycle:lifecycle-service:2.0.0] /Users/aaronnoyes/.gradle/caches/transforms-2/files-2.1/0368992a2834580b091845d7cf6559d1/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.lifecycle:lifecycle-runtime:2.0.0] /Users/aaronnoyes/.gradle/caches/transforms-2/files-2.1/a41e36976bc123fef0ad1590956d3d4e/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.lifecycle:lifecycle-viewmodel:2.0.0] /Users/aaronnoyes/.gradle/caches/transforms-2/files-2.1/846343ba4f6506c040a30895fb5a8dbe/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.documentfile:documentfile:1.0.0] /Users/aaronnoyes/.gradle/caches/transforms-2/files-2.1/30d28c6bb7b8134f71588d80534c0a47/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.localbroadcastmanager:localbroadcastmanager:1.0.0] /Users/aaronnoyes/.gradle/caches/transforms-2/files-2.1/ffb2df692509af136f605313dd0038d0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.print:print:1.0.0] /Users/aaronnoyes/.gradle/caches/transforms-2/files-2.1/9e492589b7c298f1234dc291a9c20b7c/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.interpolator:interpolator:1.0.0] /Users/aaronnoyes/.gradle/caches/transforms-2/files-2.1/daf2e2e05df91842551cc82c703dd6d1/AndroidManifest.xml:17:1-22:12
+INJECTED from /Users/aaronnoyes/Library/CloudStorage/iCloud Drive/Documents/dev/android/roll-for-initiative---14/AgilePlanner/app/src/main/AndroidManifest.xml:2:1-33:12
+INJECTED from /Users/aaronnoyes/Library/CloudStorage/iCloud Drive/Documents/dev/android/roll-for-initiative---14/AgilePlanner/app/src/main/AndroidManifest.xml:2:1-33:12
+INJECTED from /Users/aaronnoyes/Library/CloudStorage/iCloud Drive/Documents/dev/android/roll-for-initiative---14/AgilePlanner/app/src/main/AndroidManifest.xml:2:1-33:12
+	package
+		ADDED from /Users/aaronnoyes/Library/CloudStorage/iCloud Drive/Documents/dev/android/roll-for-initiative---14/AgilePlanner/app/src/main/AndroidManifest.xml:3:5-49
+		INJECTED from /Users/aaronnoyes/Library/CloudStorage/iCloud Drive/Documents/dev/android/roll-for-initiative---14/AgilePlanner/app/src/main/AndroidManifest.xml
+		INJECTED from /Users/aaronnoyes/Library/CloudStorage/iCloud Drive/Documents/dev/android/roll-for-initiative---14/AgilePlanner/app/src/main/AndroidManifest.xml
+	android:versionName
+		INJECTED from /Users/aaronnoyes/Library/CloudStorage/iCloud Drive/Documents/dev/android/roll-for-initiative---14/AgilePlanner/app/src/main/AndroidManifest.xml
+		ADDED from /Users/aaronnoyes/Library/CloudStorage/iCloud Drive/Documents/dev/android/roll-for-initiative---14/AgilePlanner/app/src/main/AndroidManifest.xml:2:1-33:12
+		INJECTED from /Users/aaronnoyes/Library/CloudStorage/iCloud Drive/Documents/dev/android/roll-for-initiative---14/AgilePlanner/app/src/main/AndroidManifest.xml
+	android:versionCode
+		INJECTED from /Users/aaronnoyes/Library/CloudStorage/iCloud Drive/Documents/dev/android/roll-for-initiative---14/AgilePlanner/app/src/main/AndroidManifest.xml
+		ADDED from /Users/aaronnoyes/Library/CloudStorage/iCloud Drive/Documents/dev/android/roll-for-initiative---14/AgilePlanner/app/src/main/AndroidManifest.xml:2:1-33:12
+		INJECTED from /Users/aaronnoyes/Library/CloudStorage/iCloud Drive/Documents/dev/android/roll-for-initiative---14/AgilePlanner/app/src/main/AndroidManifest.xml
+	xmlns:android
+		ADDED from /Users/aaronnoyes/Library/CloudStorage/iCloud Drive/Documents/dev/android/roll-for-initiative---14/AgilePlanner/app/src/main/AndroidManifest.xml:2:11-69
+application
+ADDED from /Users/aaronnoyes/Library/CloudStorage/iCloud Drive/Documents/dev/android/roll-for-initiative---14/AgilePlanner/app/src/main/AndroidManifest.xml:5:5-31:19
+MERGED from [com.google.android.material:material:1.0.0] /Users/aaronnoyes/.gradle/caches/transforms-2/files-2.1/6ddd00caabac1baf0e06788a77375078/AndroidManifest.xml:22:5-20
+MERGED from [com.google.android.material:material:1.0.0] /Users/aaronnoyes/.gradle/caches/transforms-2/files-2.1/6ddd00caabac1baf0e06788a77375078/AndroidManifest.xml:22:5-20
+MERGED from [androidx.constraintlayout:constraintlayout:1.1.3] /Users/aaronnoyes/.gradle/caches/transforms-2/files-2.1/0033ad47f67b6262b5a6e33239b022e7/AndroidManifest.xml:9:5-20
+MERGED from [androidx.constraintlayout:constraintlayout:1.1.3] /Users/aaronnoyes/.gradle/caches/transforms-2/files-2.1/0033ad47f67b6262b5a6e33239b022e7/AndroidManifest.xml:9:5-20
+MERGED from [androidx.room:room-runtime:2.1.0] /Users/aaronnoyes/.gradle/caches/transforms-2/files-2.1/0ec015514e90e9e4347281cdaf3363f2/AndroidManifest.xml:24:5-28:19
+MERGED from [androidx.room:room-runtime:2.1.0] /Users/aaronnoyes/.gradle/caches/transforms-2/files-2.1/0ec015514e90e9e4347281cdaf3363f2/AndroidManifest.xml:24:5-28:19
+MERGED from [androidx.lifecycle:lifecycle-extensions:2.0.0] /Users/aaronnoyes/.gradle/caches/transforms-2/files-2.1/299be5937a790e0f2195f539ccc59286/AndroidManifest.xml:22:5-23:19
+MERGED from [androidx.lifecycle:lifecycle-extensions:2.0.0] /Users/aaronnoyes/.gradle/caches/transforms-2/files-2.1/299be5937a790e0f2195f539ccc59286/AndroidManifest.xml:22:5-23:19
+MERGED from [androidx.core:core:1.0.0] /Users/aaronnoyes/.gradle/caches/transforms-2/files-2.1/499d97de342fe08c3a53aca210ef0285/AndroidManifest.xml:22:5-89
+MERGED from [androidx.core:core:1.0.0] /Users/aaronnoyes/.gradle/caches/transforms-2/files-2.1/499d97de342fe08c3a53aca210ef0285/AndroidManifest.xml:22:5-89
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.0.0] /Users/aaronnoyes/.gradle/caches/transforms-2/files-2.1/38e6a640b941f0eb4e86509358b50a10/AndroidManifest.xml:22:5-23:19
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.0.0] /Users/aaronnoyes/.gradle/caches/transforms-2/files-2.1/38e6a640b941f0eb4e86509358b50a10/AndroidManifest.xml:22:5-23:19
+MERGED from [androidx.lifecycle:lifecycle-process:2.0.0] /Users/aaronnoyes/.gradle/caches/transforms-2/files-2.1/07b3f69ec32a8c09172891650e743b35/AndroidManifest.xml:22:5-28:19
+MERGED from [androidx.lifecycle:lifecycle-process:2.0.0] /Users/aaronnoyes/.gradle/caches/transforms-2/files-2.1/07b3f69ec32a8c09172891650e743b35/AndroidManifest.xml:22:5-28:19
+	android:appComponentFactory
+		ADDED from [androidx.core:core:1.0.0] /Users/aaronnoyes/.gradle/caches/transforms-2/files-2.1/499d97de342fe08c3a53aca210ef0285/AndroidManifest.xml:22:18-86
+	android:supportsRtl
+		ADDED from /Users/aaronnoyes/Library/CloudStorage/iCloud Drive/Documents/dev/android/roll-for-initiative---14/AgilePlanner/app/src/main/AndroidManifest.xml:10:9-35
+	android:label
+		ADDED from /Users/aaronnoyes/Library/CloudStorage/iCloud Drive/Documents/dev/android/roll-for-initiative---14/AgilePlanner/app/src/main/AndroidManifest.xml:8:9-41
+	android:roundIcon
+		ADDED from /Users/aaronnoyes/Library/CloudStorage/iCloud Drive/Documents/dev/android/roll-for-initiative---14/AgilePlanner/app/src/main/AndroidManifest.xml:9:9-54
+	android:icon
+		ADDED from /Users/aaronnoyes/Library/CloudStorage/iCloud Drive/Documents/dev/android/roll-for-initiative---14/AgilePlanner/app/src/main/AndroidManifest.xml:7:9-43
+	android:allowBackup
+		ADDED from /Users/aaronnoyes/Library/CloudStorage/iCloud Drive/Documents/dev/android/roll-for-initiative---14/AgilePlanner/app/src/main/AndroidManifest.xml:6:9-35
+	android:theme
+		ADDED from /Users/aaronnoyes/Library/CloudStorage/iCloud Drive/Documents/dev/android/roll-for-initiative---14/AgilePlanner/app/src/main/AndroidManifest.xml:11:9-65
+activity#com.rollforinitiative.agileplanner.presentation.ProjectDetailActivity
+ADDED from /Users/aaronnoyes/Library/CloudStorage/iCloud Drive/Documents/dev/android/roll-for-initiative---14/AgilePlanner/app/src/main/AndroidManifest.xml:12:9-17:20
+	android:parentActivityName
+		ADDED from /Users/aaronnoyes/Library/CloudStorage/iCloud Drive/Documents/dev/android/roll-for-initiative---14/AgilePlanner/app/src/main/AndroidManifest.xml:13:19-74
+	android:name
+		ADDED from /Users/aaronnoyes/Library/CloudStorage/iCloud Drive/Documents/dev/android/roll-for-initiative---14/AgilePlanner/app/src/main/AndroidManifest.xml:12:19-69
+meta-data#android.support.PARENT_ACTIVITY
+ADDED from /Users/aaronnoyes/Library/CloudStorage/iCloud Drive/Documents/dev/android/roll-for-initiative---14/AgilePlanner/app/src/main/AndroidManifest.xml:14:13-16:96
+	android:value
+		ADDED from /Users/aaronnoyes/Library/CloudStorage/iCloud Drive/Documents/dev/android/roll-for-initiative---14/AgilePlanner/app/src/main/AndroidManifest.xml:16:17-93
+	android:name
+		ADDED from /Users/aaronnoyes/Library/CloudStorage/iCloud Drive/Documents/dev/android/roll-for-initiative---14/AgilePlanner/app/src/main/AndroidManifest.xml:15:17-63
+activity#com.rollforinitiative.agileplanner.presentation.ProjectAdderActivity
+ADDED from /Users/aaronnoyes/Library/CloudStorage/iCloud Drive/Documents/dev/android/roll-for-initiative---14/AgilePlanner/app/src/main/AndroidManifest.xml:18:9-23:20
+	android:parentActivityName
+		ADDED from /Users/aaronnoyes/Library/CloudStorage/iCloud Drive/Documents/dev/android/roll-for-initiative---14/AgilePlanner/app/src/main/AndroidManifest.xml:19:19-74
+	android:name
+		ADDED from /Users/aaronnoyes/Library/CloudStorage/iCloud Drive/Documents/dev/android/roll-for-initiative---14/AgilePlanner/app/src/main/AndroidManifest.xml:18:19-68
+activity#com.rollforinitiative.agileplanner.presentation.MainActivity
+ADDED from /Users/aaronnoyes/Library/CloudStorage/iCloud Drive/Documents/dev/android/roll-for-initiative---14/AgilePlanner/app/src/main/AndroidManifest.xml:24:9-30:20
+	android:name
+		ADDED from /Users/aaronnoyes/Library/CloudStorage/iCloud Drive/Documents/dev/android/roll-for-initiative---14/AgilePlanner/app/src/main/AndroidManifest.xml:24:19-60
+intent-filter#action:name:android.intent.action.MAIN+category:name:android.intent.category.LAUNCHER
+ADDED from /Users/aaronnoyes/Library/CloudStorage/iCloud Drive/Documents/dev/android/roll-for-initiative---14/AgilePlanner/app/src/main/AndroidManifest.xml:25:13-29:29
+action#android.intent.action.MAIN
+ADDED from /Users/aaronnoyes/Library/CloudStorage/iCloud Drive/Documents/dev/android/roll-for-initiative---14/AgilePlanner/app/src/main/AndroidManifest.xml:26:17-69
+	android:name
+		ADDED from /Users/aaronnoyes/Library/CloudStorage/iCloud Drive/Documents/dev/android/roll-for-initiative---14/AgilePlanner/app/src/main/AndroidManifest.xml:26:25-66
+category#android.intent.category.LAUNCHER
+ADDED from /Users/aaronnoyes/Library/CloudStorage/iCloud Drive/Documents/dev/android/roll-for-initiative---14/AgilePlanner/app/src/main/AndroidManifest.xml:28:17-77
+	android:name
+		ADDED from /Users/aaronnoyes/Library/CloudStorage/iCloud Drive/Documents/dev/android/roll-for-initiative---14/AgilePlanner/app/src/main/AndroidManifest.xml:28:27-74
+uses-sdk
+INJECTED from /Users/aaronnoyes/Library/CloudStorage/iCloud Drive/Documents/dev/android/roll-for-initiative---14/AgilePlanner/app/src/main/AndroidManifest.xml reason: use-sdk injection requested
+INJECTED from /Users/aaronnoyes/Library/CloudStorage/iCloud Drive/Documents/dev/android/roll-for-initiative---14/AgilePlanner/app/src/main/AndroidManifest.xml
+INJECTED from /Users/aaronnoyes/Library/CloudStorage/iCloud Drive/Documents/dev/android/roll-for-initiative---14/AgilePlanner/app/src/main/AndroidManifest.xml
+MERGED from [com.google.android.material:material:1.0.0] /Users/aaronnoyes/.gradle/caches/transforms-2/files-2.1/6ddd00caabac1baf0e06788a77375078/AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.material:material:1.0.0] /Users/aaronnoyes/.gradle/caches/transforms-2/files-2.1/6ddd00caabac1baf0e06788a77375078/AndroidManifest.xml:20:5-44
+MERGED from [androidx.appcompat:appcompat:1.0.0] /Users/aaronnoyes/.gradle/caches/transforms-2/files-2.1/c7c629b32fd2152712b1ae95eb33c7c5/AndroidManifest.xml:20:5-44
+MERGED from [androidx.appcompat:appcompat:1.0.0] /Users/aaronnoyes/.gradle/caches/transforms-2/files-2.1/c7c629b32fd2152712b1ae95eb33c7c5/AndroidManifest.xml:20:5-44
+MERGED from [androidx.constraintlayout:constraintlayout:1.1.3] /Users/aaronnoyes/.gradle/caches/transforms-2/files-2.1/0033ad47f67b6262b5a6e33239b022e7/AndroidManifest.xml:5:5-7:41
+MERGED from [androidx.constraintlayout:constraintlayout:1.1.3] /Users/aaronnoyes/.gradle/caches/transforms-2/files-2.1/0033ad47f67b6262b5a6e33239b022e7/AndroidManifest.xml:5:5-7:41
+MERGED from [androidx.recyclerview:recyclerview:1.0.0] /Users/aaronnoyes/.gradle/caches/transforms-2/files-2.1/96d9ac4ab472c7b8df6d32f378341786/AndroidManifest.xml:20:5-44
+MERGED from [androidx.recyclerview:recyclerview:1.0.0] /Users/aaronnoyes/.gradle/caches/transforms-2/files-2.1/96d9ac4ab472c7b8df6d32f378341786/AndroidManifest.xml:20:5-44
+MERGED from [androidx.room:room-runtime:2.1.0] /Users/aaronnoyes/.gradle/caches/transforms-2/files-2.1/0ec015514e90e9e4347281cdaf3363f2/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.room:room-runtime:2.1.0] /Users/aaronnoyes/.gradle/caches/transforms-2/files-2.1/0ec015514e90e9e4347281cdaf3363f2/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.lifecycle:lifecycle-extensions:2.0.0] /Users/aaronnoyes/.gradle/caches/transforms-2/files-2.1/299be5937a790e0f2195f539ccc59286/AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-extensions:2.0.0] /Users/aaronnoyes/.gradle/caches/transforms-2/files-2.1/299be5937a790e0f2195f539ccc59286/AndroidManifest.xml:20:5-44
+MERGED from [androidx.fragment:fragment:1.0.0] /Users/aaronnoyes/.gradle/caches/transforms-2/files-2.1/77dab1d480e0ee317e077fd0616c2597/AndroidManifest.xml:20:5-44
+MERGED from [androidx.fragment:fragment:1.0.0] /Users/aaronnoyes/.gradle/caches/transforms-2/files-2.1/77dab1d480e0ee317e077fd0616c2597/AndroidManifest.xml:20:5-44
+MERGED from [androidx.vectordrawable:vectordrawable-animated:1.0.0] /Users/aaronnoyes/.gradle/caches/transforms-2/files-2.1/deeeaf896dc6ef94ff8cf0f9494331f4/AndroidManifest.xml:20:5-44
+MERGED from [androidx.vectordrawable:vectordrawable-animated:1.0.0] /Users/aaronnoyes/.gradle/caches/transforms-2/files-2.1/deeeaf896dc6ef94ff8cf0f9494331f4/AndroidManifest.xml:20:5-44
+MERGED from [androidx.legacy:legacy-support-core-ui:1.0.0] /Users/aaronnoyes/.gradle/caches/transforms-2/files-2.1/fcec4e36c5e75eaca4528a5fae793881/AndroidManifest.xml:20:5-44
+MERGED from [androidx.legacy:legacy-support-core-ui:1.0.0] /Users/aaronnoyes/.gradle/caches/transforms-2/files-2.1/fcec4e36c5e75eaca4528a5fae793881/AndroidManifest.xml:20:5-44
+MERGED from [androidx.legacy:legacy-support-core-utils:1.0.0] /Users/aaronnoyes/.gradle/caches/transforms-2/files-2.1/6c8d1cfb5c25180aa2e538c8fb120a23/AndroidManifest.xml:20:5-44
+MERGED from [androidx.legacy:legacy-support-core-utils:1.0.0] /Users/aaronnoyes/.gradle/caches/transforms-2/files-2.1/6c8d1cfb5c25180aa2e538c8fb120a23/AndroidManifest.xml:20:5-44
+MERGED from [androidx.vectordrawable:vectordrawable:1.0.0] /Users/aaronnoyes/.gradle/caches/transforms-2/files-2.1/337a90b6c1096749a038e44770921987/AndroidManifest.xml:20:5-44
+MERGED from [androidx.vectordrawable:vectordrawable:1.0.0] /Users/aaronnoyes/.gradle/caches/transforms-2/files-2.1/337a90b6c1096749a038e44770921987/AndroidManifest.xml:20:5-44
+MERGED from [androidx.transition:transition:1.0.0] /Users/aaronnoyes/.gradle/caches/transforms-2/files-2.1/8bb2eb81247cc084fed5315d725e76d2/AndroidManifest.xml:20:5-44
+MERGED from [androidx.transition:transition:1.0.0] /Users/aaronnoyes/.gradle/caches/transforms-2/files-2.1/8bb2eb81247cc084fed5315d725e76d2/AndroidManifest.xml:20:5-44
+MERGED from [androidx.loader:loader:1.0.0] /Users/aaronnoyes/.gradle/caches/transforms-2/files-2.1/8c7385a91d357248be3167b6ac3ab6c4/AndroidManifest.xml:20:5-44
+MERGED from [androidx.loader:loader:1.0.0] /Users/aaronnoyes/.gradle/caches/transforms-2/files-2.1/8c7385a91d357248be3167b6ac3ab6c4/AndroidManifest.xml:20:5-44
+MERGED from [androidx.viewpager:viewpager:1.0.0] /Users/aaronnoyes/.gradle/caches/transforms-2/files-2.1/7e25f5cad47f1035752233fdec4dde91/AndroidManifest.xml:20:5-44
+MERGED from [androidx.viewpager:viewpager:1.0.0] /Users/aaronnoyes/.gradle/caches/transforms-2/files-2.1/7e25f5cad47f1035752233fdec4dde91/AndroidManifest.xml:20:5-44
+MERGED from [androidx.coordinatorlayout:coordinatorlayout:1.0.0] /Users/aaronnoyes/.gradle/caches/transforms-2/files-2.1/5c5790e00299005dbf5e730058635bb6/AndroidManifest.xml:20:5-44
+MERGED from [androidx.coordinatorlayout:coordinatorlayout:1.0.0] /Users/aaronnoyes/.gradle/caches/transforms-2/files-2.1/5c5790e00299005dbf5e730058635bb6/AndroidManifest.xml:20:5-44
+MERGED from [androidx.drawerlayout:drawerlayout:1.0.0] /Users/aaronnoyes/.gradle/caches/transforms-2/files-2.1/9074057e6dd7719068d5a0facd6edbde/AndroidManifest.xml:20:5-44
+MERGED from [androidx.drawerlayout:drawerlayout:1.0.0] /Users/aaronnoyes/.gradle/caches/transforms-2/files-2.1/9074057e6dd7719068d5a0facd6edbde/AndroidManifest.xml:20:5-44
+MERGED from [androidx.slidingpanelayout:slidingpanelayout:1.0.0] /Users/aaronnoyes/.gradle/caches/transforms-2/files-2.1/778c6c407ea5d4fa5f265439c7d1e5f0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.slidingpanelayout:slidingpanelayout:1.0.0] /Users/aaronnoyes/.gradle/caches/transforms-2/files-2.1/778c6c407ea5d4fa5f265439c7d1e5f0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.customview:customview:1.0.0] /Users/aaronnoyes/.gradle/caches/transforms-2/files-2.1/a2069248d466501aa40af86eb7504779/AndroidManifest.xml:20:5-44
+MERGED from [androidx.customview:customview:1.0.0] /Users/aaronnoyes/.gradle/caches/transforms-2/files-2.1/a2069248d466501aa40af86eb7504779/AndroidManifest.xml:20:5-44
+MERGED from [androidx.swiperefreshlayout:swiperefreshlayout:1.0.0] /Users/aaronnoyes/.gradle/caches/transforms-2/files-2.1/20fd492211968cfd90ec43992f59eef8/AndroidManifest.xml:20:5-44
+MERGED from [androidx.swiperefreshlayout:swiperefreshlayout:1.0.0] /Users/aaronnoyes/.gradle/caches/transforms-2/files-2.1/20fd492211968cfd90ec43992f59eef8/AndroidManifest.xml:20:5-44
+MERGED from [androidx.asynclayoutinflater:asynclayoutinflater:1.0.0] /Users/aaronnoyes/.gradle/caches/transforms-2/files-2.1/e900d7502c96e18c788ad1e8a57ad704/AndroidManifest.xml:20:5-44
+MERGED from [androidx.asynclayoutinflater:asynclayoutinflater:1.0.0] /Users/aaronnoyes/.gradle/caches/transforms-2/files-2.1/e900d7502c96e18c788ad1e8a57ad704/AndroidManifest.xml:20:5-44
+MERGED from [androidx.core:core:1.0.0] /Users/aaronnoyes/.gradle/caches/transforms-2/files-2.1/499d97de342fe08c3a53aca210ef0285/AndroidManifest.xml:20:5-44
+MERGED from [androidx.core:core:1.0.0] /Users/aaronnoyes/.gradle/caches/transforms-2/files-2.1/499d97de342fe08c3a53aca210ef0285/AndroidManifest.xml:20:5-44
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.0.0] /Users/aaronnoyes/.gradle/caches/transforms-2/files-2.1/38e6a640b941f0eb4e86509358b50a10/AndroidManifest.xml:20:5-44
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.0.0] /Users/aaronnoyes/.gradle/caches/transforms-2/files-2.1/38e6a640b941f0eb4e86509358b50a10/AndroidManifest.xml:20:5-44
+MERGED from [androidx.cursoradapter:cursoradapter:1.0.0] /Users/aaronnoyes/.gradle/caches/transforms-2/files-2.1/75e0dafab5509687608a2fa949ff7817/AndroidManifest.xml:20:5-44
+MERGED from [androidx.cursoradapter:cursoradapter:1.0.0] /Users/aaronnoyes/.gradle/caches/transforms-2/files-2.1/75e0dafab5509687608a2fa949ff7817/AndroidManifest.xml:20:5-44
+MERGED from [androidx.cardview:cardview:1.0.0] /Users/aaronnoyes/.gradle/caches/transforms-2/files-2.1/1f7589759a2e6e6886bc00e0a302e821/AndroidManifest.xml:20:5-44
+MERGED from [androidx.cardview:cardview:1.0.0] /Users/aaronnoyes/.gradle/caches/transforms-2/files-2.1/1f7589759a2e6e6886bc00e0a302e821/AndroidManifest.xml:20:5-44
+MERGED from [androidx.sqlite:sqlite-framework:2.0.1] /Users/aaronnoyes/.gradle/caches/transforms-2/files-2.1/0403cf4c107197bd7b3653ec9133dbca/AndroidManifest.xml:20:5-44
+MERGED from [androidx.sqlite:sqlite-framework:2.0.1] /Users/aaronnoyes/.gradle/caches/transforms-2/files-2.1/0403cf4c107197bd7b3653ec9133dbca/AndroidManifest.xml:20:5-44
+MERGED from [androidx.sqlite:sqlite:2.0.1] /Users/aaronnoyes/.gradle/caches/transforms-2/files-2.1/6f580002f130bef66490f88e7bf8daa4/AndroidManifest.xml:20:5-44
+MERGED from [androidx.sqlite:sqlite:2.0.1] /Users/aaronnoyes/.gradle/caches/transforms-2/files-2.1/6f580002f130bef66490f88e7bf8daa4/AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-livedata:2.0.0] /Users/aaronnoyes/.gradle/caches/transforms-2/files-2.1/67bd956e99157671ccdbcdb4e179e936/AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-livedata:2.0.0] /Users/aaronnoyes/.gradle/caches/transforms-2/files-2.1/67bd956e99157671ccdbcdb4e179e936/AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-livedata-core:2.0.0] /Users/aaronnoyes/.gradle/caches/transforms-2/files-2.1/5ad3267117dd4803ca3958ead3dc62a4/AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-livedata-core:2.0.0] /Users/aaronnoyes/.gradle/caches/transforms-2/files-2.1/5ad3267117dd4803ca3958ead3dc62a4/AndroidManifest.xml:20:5-44
+MERGED from [androidx.arch.core:core-runtime:2.0.1] /Users/aaronnoyes/.gradle/caches/transforms-2/files-2.1/3908d762a89f628d66948ecc754f7723/AndroidManifest.xml:20:5-44
+MERGED from [androidx.arch.core:core-runtime:2.0.1] /Users/aaronnoyes/.gradle/caches/transforms-2/files-2.1/3908d762a89f628d66948ecc754f7723/AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-process:2.0.0] /Users/aaronnoyes/.gradle/caches/transforms-2/files-2.1/07b3f69ec32a8c09172891650e743b35/AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-process:2.0.0] /Users/aaronnoyes/.gradle/caches/transforms-2/files-2.1/07b3f69ec32a8c09172891650e743b35/AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-service:2.0.0] /Users/aaronnoyes/.gradle/caches/transforms-2/files-2.1/0368992a2834580b091845d7cf6559d1/AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-service:2.0.0] /Users/aaronnoyes/.gradle/caches/transforms-2/files-2.1/0368992a2834580b091845d7cf6559d1/AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-runtime:2.0.0] /Users/aaronnoyes/.gradle/caches/transforms-2/files-2.1/a41e36976bc123fef0ad1590956d3d4e/AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-runtime:2.0.0] /Users/aaronnoyes/.gradle/caches/transforms-2/files-2.1/a41e36976bc123fef0ad1590956d3d4e/AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-viewmodel:2.0.0] /Users/aaronnoyes/.gradle/caches/transforms-2/files-2.1/846343ba4f6506c040a30895fb5a8dbe/AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-viewmodel:2.0.0] /Users/aaronnoyes/.gradle/caches/transforms-2/files-2.1/846343ba4f6506c040a30895fb5a8dbe/AndroidManifest.xml:20:5-44
+MERGED from [androidx.documentfile:documentfile:1.0.0] /Users/aaronnoyes/.gradle/caches/transforms-2/files-2.1/30d28c6bb7b8134f71588d80534c0a47/AndroidManifest.xml:20:5-44
+MERGED from [androidx.documentfile:documentfile:1.0.0] /Users/aaronnoyes/.gradle/caches/transforms-2/files-2.1/30d28c6bb7b8134f71588d80534c0a47/AndroidManifest.xml:20:5-44
+MERGED from [androidx.localbroadcastmanager:localbroadcastmanager:1.0.0] /Users/aaronnoyes/.gradle/caches/transforms-2/files-2.1/ffb2df692509af136f605313dd0038d0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.localbroadcastmanager:localbroadcastmanager:1.0.0] /Users/aaronnoyes/.gradle/caches/transforms-2/files-2.1/ffb2df692509af136f605313dd0038d0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.print:print:1.0.0] /Users/aaronnoyes/.gradle/caches/transforms-2/files-2.1/9e492589b7c298f1234dc291a9c20b7c/AndroidManifest.xml:20:5-44
+MERGED from [androidx.print:print:1.0.0] /Users/aaronnoyes/.gradle/caches/transforms-2/files-2.1/9e492589b7c298f1234dc291a9c20b7c/AndroidManifest.xml:20:5-44
+MERGED from [androidx.interpolator:interpolator:1.0.0] /Users/aaronnoyes/.gradle/caches/transforms-2/files-2.1/daf2e2e05df91842551cc82c703dd6d1/AndroidManifest.xml:20:5-44
+MERGED from [androidx.interpolator:interpolator:1.0.0] /Users/aaronnoyes/.gradle/caches/transforms-2/files-2.1/daf2e2e05df91842551cc82c703dd6d1/AndroidManifest.xml:20:5-44
+INJECTED from /Users/aaronnoyes/Library/CloudStorage/iCloud Drive/Documents/dev/android/roll-for-initiative---14/AgilePlanner/app/src/main/AndroidManifest.xml
+INJECTED from /Users/aaronnoyes/Library/CloudStorage/iCloud Drive/Documents/dev/android/roll-for-initiative---14/AgilePlanner/app/src/main/AndroidManifest.xml
+	android:targetSdkVersion
+		INJECTED from /Users/aaronnoyes/Library/CloudStorage/iCloud Drive/Documents/dev/android/roll-for-initiative---14/AgilePlanner/app/src/main/AndroidManifest.xml
+		ADDED from /Users/aaronnoyes/Library/CloudStorage/iCloud Drive/Documents/dev/android/roll-for-initiative---14/AgilePlanner/app/src/main/AndroidManifest.xml
+		INJECTED from /Users/aaronnoyes/Library/CloudStorage/iCloud Drive/Documents/dev/android/roll-for-initiative---14/AgilePlanner/app/src/main/AndroidManifest.xml
+	android:minSdkVersion
+		INJECTED from /Users/aaronnoyes/Library/CloudStorage/iCloud Drive/Documents/dev/android/roll-for-initiative---14/AgilePlanner/app/src/main/AndroidManifest.xml
+		ADDED from /Users/aaronnoyes/Library/CloudStorage/iCloud Drive/Documents/dev/android/roll-for-initiative---14/AgilePlanner/app/src/main/AndroidManifest.xml
+		INJECTED from /Users/aaronnoyes/Library/CloudStorage/iCloud Drive/Documents/dev/android/roll-for-initiative---14/AgilePlanner/app/src/main/AndroidManifest.xml
+service#androidx.room.MultiInstanceInvalidationService
+ADDED from [androidx.room:room-runtime:2.1.0] /Users/aaronnoyes/.gradle/caches/transforms-2/files-2.1/0ec015514e90e9e4347281cdaf3363f2/AndroidManifest.xml:25:9-27:40
+	android:exported
+		ADDED from [androidx.room:room-runtime:2.1.0] /Users/aaronnoyes/.gradle/caches/transforms-2/files-2.1/0ec015514e90e9e4347281cdaf3363f2/AndroidManifest.xml:27:13-37
+	android:name
+		ADDED from [androidx.room:room-runtime:2.1.0] /Users/aaronnoyes/.gradle/caches/transforms-2/files-2.1/0ec015514e90e9e4347281cdaf3363f2/AndroidManifest.xml:26:13-74
+provider#androidx.lifecycle.ProcessLifecycleOwnerInitializer
+ADDED from [androidx.lifecycle:lifecycle-process:2.0.0] /Users/aaronnoyes/.gradle/caches/transforms-2/files-2.1/07b3f69ec32a8c09172891650e743b35/AndroidManifest.xml:23:9-27:43
+	android:authorities
+		ADDED from [androidx.lifecycle:lifecycle-process:2.0.0] /Users/aaronnoyes/.gradle/caches/transforms-2/files-2.1/07b3f69ec32a8c09172891650e743b35/AndroidManifest.xml:25:13-69
+	android:multiprocess
+		ADDED from [androidx.lifecycle:lifecycle-process:2.0.0] /Users/aaronnoyes/.gradle/caches/transforms-2/files-2.1/07b3f69ec32a8c09172891650e743b35/AndroidManifest.xml:27:13-40
+	android:exported
+		ADDED from [androidx.lifecycle:lifecycle-process:2.0.0] /Users/aaronnoyes/.gradle/caches/transforms-2/files-2.1/07b3f69ec32a8c09172891650e743b35/AndroidManifest.xml:26:13-37
+	android:name
+		ADDED from [androidx.lifecycle:lifecycle-process:2.0.0] /Users/aaronnoyes/.gradle/caches/transforms-2/files-2.1/07b3f69ec32a8c09172891650e743b35/AndroidManifest.xml:24:13-79
